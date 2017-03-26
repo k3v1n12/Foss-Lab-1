@@ -73,3 +73,10 @@ git merge <branch1> <branch2>
 ---------------
 git clone <url> 
 
+15. LOG
+--------
+git log 
+
+16. STASH
+----------
+git stash --> Removes changes after the previous changes
